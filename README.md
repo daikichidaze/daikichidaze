@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/daikichidaz" target="blank"><img src="https://img.shields.io/twitter/follow/daikichidaz?logo=twitter&style=for-the-badge" alt="daikichidaz" /></a> </p>
 
-- 🔭 I’m currently working on **data science and software development, including planning of new digital service**
+- 🔭 I’m currently working on **data science and software development, including planning of new digital services**
 
-- 🌱 I’m currently learning **Typescript, Solidity**
+- 🌱 I’m currently learning **Go**
 
 - ✍ I’m looking to collaborate on **finding a new capability of data science in the latest business field**
 
