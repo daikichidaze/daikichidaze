@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Twitter: @daikichidaz**
 
-- 📄 Know about my experiences [https://daikichidaze.github.io/resume/index_en.html](https://daikichidaze.github.io/resume/index_en.html)
+- 📄 Know about my experiences [https://daikichidaze.github.io/resume](https://daikichidaze.github.io/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
