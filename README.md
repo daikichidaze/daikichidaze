@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://zenn.dev/daikichidaze](https://zenn.dev/daikichidaze)
 
-- 📫 How to reach me **Twitter: @daikichidaz**
+- 📫 How to reach me **Twitter: @daikichidaze**
 
 - 📄 Know about my experiences [https://daikichidaze.github.io/resume](https://daikichidaze.github.io/resume)
 
